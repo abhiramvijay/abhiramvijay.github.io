@@ -3,7 +3,7 @@
 title: Abhiram Vijayakumar
 
 # Name pronunciation (optional)
-name_pronunciation: Abhiram Vijayakumar
+# name_pronunciation: Abhiram Vijayakumar
 
 # Full name (for SEO)
 first_name: Abhiram
